@@ -1,6 +1,6 @@
-# Project Proposal: Bigroadrunner LLC
+# Project Proposal: Big Road Runner App
 
-**App Name**: Bigroadrunner  
+**App Name**: Big Road Runner App  
 **Author**: Joshua Sanders  
 **Concept**: A dedicated mobile companion app designed for commercial truck drivers and owner-operators to manage professional driver credentials, log trips and fuel expenses, monitor safety alerts, and fetch real-time route weather conditions.
 

@@ -38,7 +38,7 @@ class _BigroadrunnerAppState extends State<BigroadrunnerApp> {
       listenable: widget.appState,
       builder: (context, _) {
         return MaterialApp(
-          title: 'Bigroadrunner',
+          title: 'Big Road Runner App',
           debugShowCheckedModeBanner: false,
           themeMode: widget.appState.isDarkMode ? ThemeMode.dark : ThemeMode.light,
 
